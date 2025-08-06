@@ -17,6 +17,7 @@ html {
 body {
   font-family: "Open Sans", Arial, sans-serif;
   margin: 0;
+  padding-bottom: 2rem;
 }
 
 a {
@@ -44,8 +45,4 @@ select {
   font-size: inherit;
   display: inline-block;
   text-decoration: none;
-}
-
-.items-grid {
-  
 }

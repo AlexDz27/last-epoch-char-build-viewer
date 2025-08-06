@@ -168,6 +168,14 @@ export default {
       </li>
     </ul>
   </main>
+
+  <section class="section cont">
+    <hr>
+    <section class="section__main">
+      <p><b>Total Armor:</b> 333</p>
+      <p><b>Total Phys Res:</b> 33%</p>
+    </section>
+  </section>
 </template>
 
 <style scoped></style>
