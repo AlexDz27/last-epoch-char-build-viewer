@@ -2,22 +2,12 @@
 .items-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-template-areas: 
-  "helm body boots"
-  "weapon-left-hand . weapon-right-hand"
-  "ring-left amulet ring-right";
   column-gap: 3rem;
   list-style: none;
   padding-left: 0;
 }
 
 .item {}
-.item--weapon-left-hand {
-  grid-area: weapon-left-hand;
-}
-.item--weapon-right-hand {
-  grid-area: weapon-right-hand;
-}
 
 .item__title {
   text-align: center;

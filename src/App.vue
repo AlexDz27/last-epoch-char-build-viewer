@@ -35,7 +35,7 @@ export default {
         </ul>
       </li>
 
-      <li class="item item--weapon-left-hand">
+      <li class="item">
         <h2 class="item__title">Weapon Left-hand</h2>
         <ul class="item__list">
           <li>qweqwe</li>
@@ -43,7 +43,9 @@ export default {
         </ul>
       </li>
 
-      <li class="item item--weapon-right-hand">
+      <li></li>
+
+      <li class="item">
         <h2 class="item__title">Weapon Right-hand</h2>
         <ul class="item__list">
           <li>qweqwe</li>
