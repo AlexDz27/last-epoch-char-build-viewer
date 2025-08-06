@@ -1,0 +1,10 @@
+.cont {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 15px;
+  box-sizing: border-box;
+}
+
+.main {
+  padding-top: 1rem;
+}
