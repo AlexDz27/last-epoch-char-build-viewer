@@ -2,6 +2,7 @@
 .items-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 1rem;
   column-gap: 3rem;
   list-style: none;
   padding-left: 0;
@@ -17,4 +18,8 @@
   padding-left: 20px;
   list-style-type: disc;
   padding-left: 20px;
+}
+
+.item__unneeded {
+  color: gray;
 }

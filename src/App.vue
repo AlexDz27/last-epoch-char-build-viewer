@@ -14,8 +14,12 @@ export default {
       <li class="item">
         <h2 class="item__title">Helm</h2>
         <ul class="item__list">
-          <li>qweqwe</li>
-          <li>qweqwe</li>
+          <li>+86 Armor</li>
+          <li>+17% Poison Res</li>
+          <li class="item__unneeded">+1 Summon Thorn Totem</li>
+          <li class="item__unneeded">7% increased Damage for Totems</li>
+          <li>+10 Mana</li>
+          <li>+11% Cold Res</li>
         </ul>
       </li>
 
