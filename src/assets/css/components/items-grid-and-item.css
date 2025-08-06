@@ -19,3 +19,7 @@
   list-style-type: disc;
   padding-left: 20px;
 }
+
+.item__item--not-certain {
+  text-decoration: underline dotted;
+}

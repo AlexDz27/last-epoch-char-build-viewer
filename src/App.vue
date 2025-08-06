@@ -40,7 +40,7 @@ export default {
           <li>Base Attack Rate: 1.05 - Average</li>
           <li>+48 Melee Damage</li>
           <li>+15% Chance to inlict Bleed on Hit</li>
-          <li>+57% Chance to inlict Bleed on Hit (?)</li>
+          <li class="item__item--not-certain" title="Как это работает?">+57% Chance to inlict Bleed on Hit (?)</li>
           <li>15% incr Bleed Duration</li>
           <li>When you hit a bleeding enemy with a melee attack, all bleed stacks on that enemy double in speed</li>
         </ul>
@@ -86,7 +86,7 @@ export default {
           <li>+9% Crit Strike Avoidance</li>
           <li>+23 Dodge Rating</li>
           <li>Stats on this item are doubled for 1 sec after using a Potion +1 Potion Slot per equipped Weaver's Will Item</li>
-          <li>49% incr Armor (?)</li>
+          <li class="item__item--not-certain" title="Как это работает?">49% incr Armor (?)</li>
           <li>45% of Mana Spent Gained as Ward</li>
           <li>6% more Damage to Stunned Enemies</li>
         </ul>
@@ -122,7 +122,7 @@ export default {
         <ul class="item__list">
           <li>+35 Armor</li>
           <li>10% incr Movement Speed</li>
-          <li>6% incr Movement Speed (?)</li>
+          <li class="item__item--not-certain" title="Как это работает?">6% incr Movement Speed (?)</li>
           <li>+1 Strength</li>
           <li>+13% Phys Res</li>
           <li>+9 Health</li>
@@ -168,6 +168,14 @@ export default {
       </li>
     </ul>
   </main>
+
+  <section class="section cont">
+    <hr>
+    <section class="section__main">
+      <p><b>Total Armor:</b> 333</p>
+      <p><b>Total Phys Res:</b> 33%</p>
+    </section>
+  </section>
 </template>
 
 <style scoped></style>

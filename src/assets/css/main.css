@@ -3,5 +3,6 @@
 @import 'atoms.css';
 
 @import 'components/items-grid-and-item.css';
+@import 'components/section.css';
 
 @import 'heap.css';
