@@ -139,6 +139,33 @@ export default {
           <li>+5% Cold Res</li>
         </ul>
       </li>
+
+      <li class="item">
+        <h2 class="item__title">Idols</h2>
+        <ul class="item__list">
+          <li class="item">
+            <b class="item__title">1</b>
+            <ul class="item__list">
+              <li>4% incr Health Regen</li>
+            </ul>
+          </li>
+
+          <li class="item">
+            <b class="item__title">2</b>
+            <ul class="item__list">
+              <li>+3 Vitality</li>
+            </ul>
+          </li>
+
+          <li class="item">
+            <b class="item__title">3</b>
+            <ul class="item__list">
+              <li>+3 Vitality</li>
+              <li>+11% Phys Res</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
     </ul>
   </main>
 </template>

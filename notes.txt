@@ -1,35 +1,3 @@
-Ring right
-4% incr Movement Speed
-+9 Health
-16% Chance to gain Haste for 1 sec on Hit
-10% incr Melee Attack Speed
-43% incr Health Regen
-
-Gloves
-+10 Armor
-+10 Mana
-4.6% of Melee Damage Leeched as Health
-+5 Intelligence
-14% more Melee Damage to High Health Enemies
-14% more Spell Damage to Low Health Enemies
-10% incr Attack and Cast Speed
-+4 to All Attributes
-
-Boots
-+35 Armor
-10% incr Movement Speed
-6% incr Movement Speed (?)
-+1 Strength
-+13% Phys Res
-+9 Health
-
-Relic
-+22 Mana
-31% incr Spell Crit Strike Chance
-10% incr Phys Damage
-+7% Phys Res
-+5% Cold Res
-
 Idols:
 1: 4% incr Health Regen
 2: +3 Vitality
