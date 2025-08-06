@@ -16,26 +16,30 @@ export default {
         <ul class="item__list">
           <li>+86 Armor</li>
           <li>+17% Poison Res</li>
-          <li class="item__unneeded">+1 Summon Thorn Totem</li>
-          <li class="item__unneeded">7% increased Damage for Totems</li>
           <li>+10 Mana</li>
           <li>+11% Cold Res</li>
+          <li>+8% Physical Res</li>
         </ul>
       </li>
 
       <li class="item">
         <h2 class="item__title">Body</h2>
         <ul class="item__list">
-          <li>qweqwe</li>
-          <li>qweqwe</li>
+          <li>+194 Armor</li>
+          <li>+8% Endurance</li>
+          <li>+4 Dexterity</li>
+          <li>+12% Fire Res</li>
         </ul>
       </li>
 
       <li class="item">
         <h2 class="item__title">Boots</h2>
         <ul class="item__list">
-          <li>qweqwe</li>
-          <li>qweqwe</li>
+          <li>+35 Armor</li>
+          <li>10% increased Movement Speed</li>
+          <li>+1 Strength</li>
+          <li>+13% Physical Res</li>
+          <li>+9 Health</li>
         </ul>
       </li>
 

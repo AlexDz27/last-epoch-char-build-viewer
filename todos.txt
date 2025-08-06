@@ -1,0 +1,3 @@
+rename wepoan left hand into just 'weapon left'
+
+add ? dotted thing for +% on axe, belt

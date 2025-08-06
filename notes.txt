@@ -1,0 +1,79 @@
+Amulet
+15% incr Melee Attack Speed
+13% incr Cold Damage
++12% Chance to Ignite on Hit
++8% Void Res
+
+Weapon Left
+Base Attack Rate: 1.05 - Average
++48 Melee Damage
++15% Chance to inlict Bleed on Hit
++57% Chance to inlict Bleed on Hit (?)
+15% incr Bleed Duration
+When you hit a bleeding enemy with a melee attack, all bleed stacks
+on that enemy double in speed
+
+Weapon right
++20% Block Chance
++162 Block Effectiveness
++107 Armor
+32 Damage Reflected to Attackers
+5% Reduced Damage Taken on Block
+
+Ring left
+45% incr Crit Strike Chance
++1 Strength
++14% Phys Res
++25 Health
+
+Belt
++3 Potion Slots
++40 Armor
+39% incr Poison Damage
+45% incr Chance to Find Potions
+11% incr Cooldown Recovery Speed
++9% Crit Strike Avoidance
++23 Dodge Rating
+Stats on this item are doubled for 1 sec after using a Potion
++1 Potion Slot per equipped Weaver's Will Item
+49% incr Armor (?)
+45% of Mana Spent Gained as Ward
+6% more Damage to Stunned Enemies
+
+Ring right
+4% incr Movement Speed
++9 Health
+16% Chance to gain Haste for 1 sec on Hit
+10% incr Melee Attack Speed
+43% incr Health Regen
+
+Gloves
++10 Armor
++10 Mana
+4.6% of Melee Damage Leeched as Health
++5 Intelligence
+14% more Melee Damage to High Health Enemies
+14% more Spell Damage to Low Health Enemies
+10% incr Attack and Cast Speed
++4 to All Attributes
+
+Boots
++35 Armor
+10% incr Movement Speed
+6% incr Movement Speed (?)
++1 Strength
++13% Phys Res
++9 Health
+
+Relic
++22 Mana
+31% incr Spell Crit Strike Chance
+10% incr Phys Damage
++7% Phys Res
++5% Cold Res
+
+Idols:
+1: 4% incr Health Regen
+2: +3 Vitality
+3: +3 Vitality
++11% Phys Res
