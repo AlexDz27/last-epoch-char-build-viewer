@@ -93,34 +93,50 @@ export default {
       </li>
 
       <li class="item">
-        <h2 class="item__title">Right right</h2>
+        <h2 class="item__title">Ring right</h2>
         <ul class="item__list">
-          <li>qweqwe</li>
-          <li>qweqwe</li>
+          <li>4% incr Movement Speed</li>
+          <li>+9 Health</li>
+          <li>16% Chance to gain Haste for 1 sec on Hit</li>
+          <li>10% incr Melee Attack Speed</li>
+          <li>43% incr Health Regen</li>
         </ul>
       </li>
 
       <li class="item">
         <h2 class="item__title">Gloves</h2>
         <ul class="item__list">
-          <li>qweqwe</li>
-          <li>qweqwe</li>
+          <li>+10 Armor</li>
+          <li>+10 Mana</li>
+          <li>4.6% of Melee Damage Leeched as Health</li>
+          <li>+5 Intelligence</li>
+          <li>14% more Melee Damage to High Health Enemies</li>
+          <li>14% more Spell Damage to Low Health Enemies</li>
+          <li>10% incr Attack and Cast Speed</li>
+          <li>+4 to All Attributes</li>
         </ul>
       </li>
 
       <li class="item">
         <h2 class="item__title">Boots</h2>
         <ul class="item__list">
-          <li>qweqwe</li>
-          <li>qweqwe</li>
+          <li>+35 Armor</li>
+          <li>10% incr Movement Speed</li>
+          <li>6% incr Movement Speed (?)</li>
+          <li>+1 Strength</li>
+          <li>+13% Phys Res</li>
+          <li>+9 Health</li>
         </ul>
       </li>
 
       <li class="item">
         <h2 class="item__title">Relic</h2>
         <ul class="item__list">
-          <li>qweqwe</li>
-          <li>qweqwe</li>
+          <li>+22 Mana</li>
+          <li>31% incr Spell Crit Strike Chance</li>
+          <li>10% incr Phys Damage</li>
+          <li>+7% Phys Res</li>
+          <li>+5% Cold Res</li>
         </ul>
       </li>
     </ul>
