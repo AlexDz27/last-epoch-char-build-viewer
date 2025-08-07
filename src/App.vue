@@ -5,6 +5,47 @@ export default {
   components: {
     Item,
   },
+  // (p)) TODO: make normal code by myself. Мб мне ваще не надо это, т.к. всё равно армор и phys res показываются в игре. Но мб это пригодится при сравнении разных шмоток/(итем))билдов.
+  mounted() {
+    this.calculateTotals()
+  },
+  methods: {
+    calculateTotals() {
+      // Get all item list elements
+      const lis = document.querySelectorAll('li')
+      console.log(lis)
+      let totalArmor = 0
+      let totalPhysRes = 0
+      
+      // Regex patterns
+      const armorRegex = /\+(\d+)\s*Armor/
+      const physResRegex = /\+(\d+)%\s*(?:Physical Res|Phys Res)/
+      
+      lis.forEach(li => {
+        const text = li.textContent
+        
+        // Check for armor
+        const armorMatch = text.match(armorRegex)
+        if (armorMatch) {
+          totalArmor += parseInt(armorMatch[1])
+        }
+        
+        // Check for physical resistance
+        const physResMatch = text.match(physResRegex)
+        // console.log(physResMatch)
+        if (physResMatch) {
+          totalPhysRes += parseInt(physResMatch[1])
+        }
+      })
+      
+      // Update the display
+      const armorElement = document.getElementById('totalArmor')
+      const physResElement = document.getElementById('totalPhysRes')
+      
+      armorElement.innerHTML = `${totalArmor}`
+      physResElement.innerHTML = `${totalPhysRes}`
+    }
+  }
 }
 </script>
 
@@ -172,8 +213,8 @@ export default {
   <section class="section cont">
     <hr>
     <section class="section__main">
-      <p><b>Total Armor:</b> 333</p>
-      <p><b>Total Phys Res:</b> 33%</p>
+      <p><b>Total Armor:</b> <span id="totalArmor">333</span></p>
+      <p><b>Total Phys Res:</b> <span id="totalPhysRes">33</span>%</p>
     </section>
   </section>
 </template>
